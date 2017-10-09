@@ -158,7 +158,6 @@
 				TargetAttributes = {
 					0008043D1F875073004F1C83 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = G78T6UDKTP;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -323,7 +322,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = G78T6UDKTP;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = photo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.leadinfosoft.dev.photo;
@@ -336,7 +335,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = G78T6UDKTP;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = photo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.leadinfosoft.dev.photo;
@@ -364,6 +363,7 @@
 				000804521F875073004F1C83 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
